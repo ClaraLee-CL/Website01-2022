@@ -5,4 +5,3 @@
 ##### @FEB16,2022
 
 <img src="./README_images/ScreenImg-1.png" style="display: inline-block; max-width: 350px">
-<img src="./README_images/ScreenImg-2.png" style="display: inline-block; max-width: 350px">
