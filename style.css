@@ -1,9 +1,9 @@
-@import url("https://fonts.googleapis.com/css?family=Playfair+Display+SC|Roboto:300,400&display=swap");
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display+SC|Roboto:300,400&display=swap');
 
-@import url("http://fonts.cdnfonts.com/css/adelinetha-charlote");
+@import url('http://fonts.cdnfonts.com/css/adelinetha-charlote');
 
 html {
-  font-family: "Roboto", sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 
 a:hover {
@@ -26,13 +26,13 @@ header {
 }
 
 .signature-heading {
-  font-family: "Adelinetha Charlote", sans-serif;
+  font-family: 'Adelinetha Charlote', sans-serif !important;
   font-size: 50px;
   margin-bottom: 30px;
 }
 
 .signature-subhead {
-  font-family: "playfair Display SC", sans-serif;
+  font-family: 'playfair Display SC', sans-serif;
   font-size: 14px;
   text-transform: uppercase;
   margin-bottom: 0;
@@ -114,7 +114,7 @@ header {
 }
 
 .section-heading::before {
-  content: "";
+  content: '';
   position: absolute;
   width: 2px;
   height: 50px;
@@ -124,7 +124,7 @@ header {
 }
 
 .heading-title {
-  font-family: "playfair Display SC", sans-serif;
+  font-family: 'playfair Display SC', sans-serif;
   text-transform: uppercase;
   color: #384147;
   font-size: 25px;
@@ -144,7 +144,7 @@ header {
 }
 
 .lightbox-content a::before {
-  content: "";
+  content: '';
   position: absolute;
   top: 0;
   left: 0;
@@ -159,8 +159,8 @@ header {
 }
 
 .lightbox-content a::after {
-  font-family: "Font Awesome 5 Free";
-  content: "\f00e";
+  font-family: 'Font Awesome 5 Free';
+  content: '\f00e';
   font-weight: 600;
   position: absolute;
   top: 50%;
@@ -255,7 +255,7 @@ footer {
 
 footer h5 {
   color: #fff;
-  font-family: "playfair Display SC", sans-serif;
+  font-family: 'playfair Display SC', sans-serif;
 }
 
 .copyright {
