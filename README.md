@@ -1,6 +1,6 @@
 # Catering-Website
 
-## 🪄 Html, Css, JavaScript and Bootstrap.
+### 🪄 Html, Css, JavaScript and Bootstrap.
 
 ##### @FEB16,2022
 
